@@ -1,0 +1,41 @@
+.h1{
+    text-align: center;
+    color: burlywood;
+}
+.a{
+    text-align: center;
+    margin-top: 69px;
+    margin-bottom: 21px;
+    
+}
+.h2{
+    text-align: right 59px;
+    margin-right: 660px;
+    margin-top: 69px;
+}
+img{
+    border-radius: 50%;
+    height: 10cm;
+    width: auto;
+    margin-top: 50px;
+}
+.j{
+    text-align: center;
+    color: burlywood;
+    margin-top: 49px;
+    margin-bottom: 29px;
+}
+.c{
+    color: green;
+}
+button {
+    background-color: burlywood;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
